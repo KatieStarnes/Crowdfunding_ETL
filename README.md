@@ -48,3 +48,11 @@ This is the raw data that was imported and manipulated to create the data frames
 ### crowdfunding.xlsx
 
 This is the raw data that was imported and manipulated to create the data frames and obtain sorted information.
+
+### crowdfunding_db_schema.png
+
+This is an entity relationship diagram (also known an as ERD) for the four different dataframes that were created. This shows the relationships between various attributes on each data frame, and how they are all connected to each other.
+
+### crowdfunding_db_schema.sql
+
+This is the SQL code for all four tables to be created. After the tables were created, their primary and foreign keys are identified. The csv files can then be successfully imported, and the data can be viewed there as well. 
