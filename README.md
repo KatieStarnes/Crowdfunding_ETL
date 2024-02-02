@@ -4,7 +4,7 @@
 
 ## Project Background
 
-This is a project that focuses on extracting and transforming data using Python, Pandas, and Python dictionary methods to build an ETL pipeline. The raw data provides information on crowdfunding projects, and is divided into two rough sections: campaign information and contact information. With this in mind, our job is to complete the pipeline to extract and visualize specific portions of that data. 
+This is a project that focuses on extracting and transforming data using Python, Pandas, and Python dictionary methods to build an ETL (extract, transform, load) pipeline. The raw data provides information on crowdfunding projects, and is divided into two rough sections: campaign information and contact information. With this in mind, our job is to complete the pipeline to extract and visualize specific portions of that data. 
 
 ### Project Instructions
 
@@ -23,7 +23,7 @@ This file indicates portions of files that are intentionally untracked. These fi
 
 ### ETL_Mini_Project_KStarnes_AHinkle
 
-This is a Jupyter Notebook file. This file, through collaborative coding efforts, imported various files of xlsx data to be manipulated, adjusted, and exported into various data frames. This file serves as the blueprint for how the data frames were created, as well as shows the changes made to each of the files for easier reading and understanding. 
+This is a Jupyter Notebook file. This file, through collaborative coding efforts, imported various files of xlsx data to be manipulated, adjusted, and exported into various data frames. The libraries within this file include pandas, numpy, pprint, datetime, and json. This file serves as the blueprint for how the data frames were created, as well as shows the changes made to each of the files for easier reading and understanding. 
 
 ### campaign.csv
 
