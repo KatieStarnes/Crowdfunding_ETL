@@ -1,2 +1,3 @@
 # Crowdfunding_ETL
-Project 2
+
+## Project Team: Katie Starns and Amanda Hinkle
