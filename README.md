@@ -4,7 +4,7 @@
 
 ## Project Background
 
-This is a project that focuses on extracting and transforming data using Python, Pandas, and either Python dictionary methods to build an ETL pipeline. The raw data provides information on crowdfunding projects, and is divided into two rough sections: campaign information and contact information. With this in mind, our job is to complete the pipeline to extract and visualize specific portions of that data. 
+This is a project that focuses on extracting and transforming data using Python, Pandas, and Python dictionary methods to build an ETL pipeline. The raw data provides information on crowdfunding projects, and is divided into two rough sections: campaign information and contact information. With this in mind, our job is to complete the pipeline to extract and visualize specific portions of that data. 
 
 ### Project Instructions
 
